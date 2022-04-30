@@ -1,0 +1,19 @@
+
+.CTA {
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  background-color: red;
+  padding: 13px 18px;
+  border-radius:3px;
+  display: block;
+  width: 25%;
+  margin: 60px auto;
+  transition: 0.2s;
+}
+
+.CTA:hover{
+  background-color: #CD1616;
+  color:  white;
+  transition:  0.5s;
+}
